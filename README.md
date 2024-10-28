@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluesky401
+- 👋 Hi, I’m Ruby Minz
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning AI/ML
 - 😄 Pronouns: she/her
